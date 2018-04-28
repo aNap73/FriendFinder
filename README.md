@@ -26,5 +26,4 @@ The site matches folks by finding friends with the lowest summed difference betw
 
 ### Why I think it's so cool.
 
-Well it wasn't long ago I thought that you needed sqlserver C# IIS and asp.net to run a web application. Now I know better, I feel stronger and I feel excited, to find work as a full stack MERN developer it's getting so close now. :D I know it. I'm excited.
-
+Well it wasn't long ago I thought that you needed sqlserver, C#, IIS, and asp.net to run a web application. I wondered what all the fuss was with this restful api stuff, and longed for a simpler soapy day. Now I know better, I feel stronger and I feel excited, to find work as a full stack MERN developer it's getting so close now. :D I know it. I'm excited. Restful api's check, serving Html out of node via express routing, yes sir! Exciting stuff, indeed.
