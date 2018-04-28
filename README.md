@@ -10,14 +10,15 @@ A friendly matching program!
 
 ### The code uses javascript with node and express to manage two html routes, which serve the pages:
 
-1. /survey (the site survey and friend finding function)
-2. /* (a spash page for the site)
+1. /survey [the site survey and friend finding function](https://boiling-earth-56422.herokuapp.com/survey)
+2. /* [a spash page for the site](https://boiling-earth-56422.herokuapp.com/)
+
 
 ### The server also exposes a restful api with 3 endpoints.
 
-2. get./api/friends/ (returns the entire antfriends array of objects)
-3. get./api/friend/:name  (returns an object by name from site memory)
-4. post./api/friend/ (adds a friend object to site memory)
+2. get./api/friends/ [returns the entire antfriends array of objects](https://boiling-earth-56422.herokuapp.com/friends/)
+3. get./api/friend/:name  [returns an object by name from site memory](https://boiling-earth-56422.herokuapp.com/api/friend/Anthony)
+4. post./api/friend/ `returns an object by name from site memory(nodemo)`
 
 ### Matching
 
