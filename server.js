@@ -6,7 +6,7 @@ var app = express();
 var PORT = process.env.PORT || 3000;
 
 var antfriends = require(path.join(__dirname,'./app/data/friends.js'))();
-console.log(antfriends);
+//console.log(antfriends);
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
