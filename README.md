@@ -6,7 +6,7 @@ A friendly matching program!
 
 [Ant's Friend Finder!](https://boiling-earth-56422.herokuapp.com/)
 
-## How's it work?
+## How does it work?
 
 ### The code uses javascript with node and express to manage two html routes, which serve the pages:
 
