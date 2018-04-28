@@ -1,6 +1,5 @@
 module.exports = function(app, antfriends) {
   // Requests
-
   function calcBestyScore(friend1,friend2){
     let score = 0;
     for(var i in friend1.Quest){
@@ -12,7 +11,7 @@ module.exports = function(app, antfriends) {
     let yourBesty = 0;
     let curscore = 0;
     let wrkscore = 0;
-
+    
     for (var f in antfriends){      
       if(!yourBesty){
         yourBesty = antfriends[f];
