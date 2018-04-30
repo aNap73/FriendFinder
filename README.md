@@ -16,9 +16,9 @@ A friendly matching program!
 
 ### The server also exposes a restful api with 3 endpoints.
 
-2. get./api/friends/ [returns the entire antfriends array of objects](https://boiling-earth-56422.herokuapp.com/api/friends/)
-3. get./api/friend/:name  [returns an object by name from site memory](https://boiling-earth-56422.herokuapp.com/api/friend/Anthony)
-4. post./api/friend/ `returns an object by name from site memory(nodemo)`
+1. get./api/friends/ [returns the entire antfriends array of objects](https://boiling-earth-56422.herokuapp.com/api/friends/)
+2. get./api/friend/:name  [returns an object by name from site memory](https://boiling-earth-56422.herokuapp.com/api/friend/Anthony)
+3. post./api/friend/ `returns an object by name from site memory(nodemo)`
 
 ### Matching
 
